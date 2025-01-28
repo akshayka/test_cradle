@@ -1,0 +1,9 @@
+description: testing qCradle with marimo
+gh_create: gh repo create akshayka/test_cradle --public --description 'testing qCradle
+  with marimo'
+page: https://akshayka.github.io/test_cradle
+project_name: test_cradle
+repository: https://github.com/akshayka/test_cradle
+ssh_uri: git@github.com:akshayka/test_cradle.git
+status: public
+username: akshayka
